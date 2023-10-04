@@ -1,6 +1,8 @@
 \documentclass[11pt]{article}
 \usepackage{amsfonts,amssymb,amsmath}
+\usepackage{float}
 \setlength{\parindent}{0pt}
+\pagestyle{empty}
 
 \begin{document}
 
@@ -10,6 +12,47 @@ for all $a, b, c \in \mathbb{R}$. \\[6pt]
 The equivalence class of $a$ is $[a]$. \\ [6pt]
 
 The set $A$ is defined to be $\{1, 2, 3\}$.\\[6pt]
-The function tickets costs $\$11.5$.
+The function tickets costs $\$11.5$. \\[6pt]
+
+$$2\left(\frac{1}{x^2+2}\right)$$
+$$2\left[\frac{1}{x^2+2}\right]$$
+$$2\left\{\frac{1}{x^2+2}\right\}$$
+$$2\left \langle \frac{1}{x^2+2}\right \rangle$$
+$$2\left | \frac{1}{x^2+2}\right |$$
+
+$$\left.\frac{dy}{dx}\right|_{x=1} $$
+$$ \left (\frac{1} {1 +\left (\frac{1}{x^2+1} \right) )}\right)$$
+
+
+Tables:\\
+
+
+
+\begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    $x$ & 1 & 2 & 3 & 4 & 5 \\ \hline
+    $f(x)$ & 10 & 11 & 12 & 13 & 14 \\ \hline
+\end{tabular}
+
+\vspace{1cm}
+
+\begin{table}[H]
+    \def\arraystretch{2}
+    \begin{tabular}{|c||c|c|c|c|c|}
+        \hline
+        $x$ & 1 & 2 & 3 & 4 & 5 \\ \hline
+        $f(x)$ & $\frac{1}{2}$  & 11 & 12 & 13 & 14 \\ \hline
+    \end{tabular}
+    
+\end{table}
+
+
+
+
+
+
+
+
+
 
 \end{document}

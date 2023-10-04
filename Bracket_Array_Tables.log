@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.9.17)  4 OCT 2023 13:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.9.17)  4 OCT 2023 15:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -86,60 +86,28 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \mathdisplay@stack=\toks19
 LaTeX Info: Redefining \[ on input line 2859.
 LaTeX Info: Redefining \] on input line 2860.
-) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count187
-\l__pdf_internal_box=\box47
-) (/home/hammad/Latex/Bracket_Array_Tables.aux)
-\openout1 = `Bracket_Array_Tables.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
- []
+! LaTeX Error: File `float.sty' not found.
 
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
+Enter file name: 
+/home/hammad/Latex/Bracket_Array_Tables.tex:4: Emergency stop.
+<read *> 
+         
+l.4 \setlength
+              {\parindent}{0pt}^^M
+*** (cannot \read from terminal in nonstop modes)
 
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/hammad/Latex/Bracket_Array_Tables.aux) ) 
+ 
 Here is how much of TeX's memory you used:
- 1509 strings out of 483183
- 19032 string characters out of 5966292
- 242727 words of memory out of 5000000
- 16565 multiletter control sequences out of 15000+600000
- 536986 words of font info for 42 fonts, out of 8000000 for 9000
+ 1326 strings out of 483183
+ 14543 string characters out of 5966292
+ 239005 words of memory out of 5000000
+ 16409 multiletter control sequences out of 15000+600000
+ 532638 words of font info for 25 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 30i,4n,27p,262b,99s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /home/hammad/Latex/Bracket_Array_Tables.pdf (1 page, 35334 bytes).
-PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 30i,0n,27p,253b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+/home/hammad/Latex/Bracket_Array_Tables.tex:4:  ==> Fatal error occurred, no output PDF file produced!
