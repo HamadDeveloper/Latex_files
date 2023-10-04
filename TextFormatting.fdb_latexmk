@@ -1,0 +1,21 @@
+# Fdb version 3
+["pdflatex"] 1696441557 "/home/hammad/Latex/TextFormatting.tex" "/home/hammad/Latex/TextFormatting.pdf" "TextFormatting" 1696441670
+  "/etc/texmf/web2c/texmf.cnf" 1686026730 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/hammad/Latex/TextFormatting.aux" 1696441557 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/hammad/Latex/TextFormatting.tex" 1696441670 338 59289a5239080ce4dc452bb852699126 ""
+  "/home/hammad/Latex/pdftexcmds.sty" 0 -1 0 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty" 1573336935 6902 30fdaf7dc5636b8e3afa306210c45cae ""
+  "/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty" 1576624883 18552 1e1cc7b75da0dfaacce7cdcb27d306bf ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1580683321 20023 e427dd9e17e239bf926ef3aab67fe35e ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo" 1580683321 8462 61fdf79debfc3dc4dab35ec6cf83fbf7 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty" 1579642962 238752 60dd338d71b6a4ab2192131f73dc908b ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1694950283 4791332 d72db3d940407241f4b0c9f9dbbd7cdd ""
+  "TextFormatting.tex" 1696441670 338 59289a5239080ce4dc452bb852699126 ""
+  "pdftexcmds.sty" 0 -1 0 ""
+  (generated)
+  "TextFormatting.log"
+  "/home/hammad/Latex/TextFormatting.pdf"
+  "/home/hammad/Latex/TextFormatting.log"
